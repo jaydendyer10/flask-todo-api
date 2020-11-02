@@ -10,6 +10,5 @@
 -get all todos
 -edit a single todo 'DONE property'
 -delete a single todo
--create a database
 -create todo class
 -Host the api on Heroku
